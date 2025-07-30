@@ -14,7 +14,7 @@ function Menu() {
         <p> Inbakad svartrot med aubergine & citrontimjan - brynt sås på hösttomater & karamelliserad lök - terrin på rotsaker från Solmarka gård & lagrad öländsk ost - örtglaserade brytbönor - picklad blomkål </p>
 
         <h2 class="h2Marg"> Efterrätt </h2>
-        <p class="spaceDown"> Inbakad svartrot med aubergine & citrontimjan - brynt sås på hösttomater & karamelliserad lök - terrin på rotsaker från Solmarka gård & lagrad öländsk ost - örtglaserade brytbönor - picklad blomkål </p>
+        <p class="spaceDown"> Blåbärsbavaroise - vinbärsinkokt päron - havtornscoulis med fläder - rostad havrekaka med kardemumma </p>
         <hr width="100%" class="spaceDown"/>
         <p class="spaceDown"> Samtlig mat är vegetarisk, vid specialkost fyller man i det i samband med biljettköp. Queerbalen är ett 100% alkoholfritt evenemang, och det kommer därför enbart serveras alkoholfri dryck.</p>
       </div>
