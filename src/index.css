@@ -1,0 +1,35 @@
+:root {
+  color: rgb(255, 255, 255);
+  background-color: #59844e;
+  font-family: "Pixelify Sans", sans-serif;
+  margin: 0;
+}
+
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  margin-top: auto;
+  padding-bottom: 10px;
+}
+
+footer img {
+  height: 50px;
+  margin-left: 40px;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+html, body, #root {
+  height: 100vh;
+}
+
+#tillgänglighet {
+  text-align: left;
+  margin-top: 50px;
+}

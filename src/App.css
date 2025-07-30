@@ -1,0 +1,48 @@
+h1 {
+  font-size: 100px;
+  color: rgb(242, 242, 98);
+  margin-top: 100px;
+  margin-bottom: 0px;
+  text-shadow: rgb(0, 0, 0) 1px 0 10px;
+}
+
+h2 {
+  color: rgb(242, 242, 98);
+  text-shadow: rgb(0, 0, 0) 1px 0 10px;
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+.h2Marg {
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+
+#hangingDecorations {
+  position: fixed;
+  top: 0;
+  z-index: -10;
+  width: 100%;
+  margin: 0;
+  left: 0;
+  right: 0;
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.spaceDown {
+  margin-bottom: 50px;
+}
+
+p {
+  font-size: 20px;
+  text-shadow: rgb(0, 0, 0) 1px 0 20px;
+  text-align: justify;
+}
