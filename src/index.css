@@ -33,3 +33,17 @@ html, body, #root {
   text-align: left;
   margin-top: 50px;
 }
+
+#castlePics {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 50px;
+  margin-top: 40px;
+  justify-content: space-around;
+  width: 100%;
+  height: auto;
+}
+
+#castlePics img {
+  width: 40%;
+}
