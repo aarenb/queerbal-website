@@ -47,3 +47,19 @@ html, body, #root {
 #castlePics img {
   width: 40%;
 }
+
+a {
+  color: rgb(242, 242, 98);
+}
+
+#prices p{
+  margin-top: 10px;
+}
+
+#prices h2{
+  text-align: center;
+}
+
+#prices {
+  margin-bottom: 50px;
+}
