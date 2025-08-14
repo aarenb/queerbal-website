@@ -10,7 +10,7 @@ function Schedule() {
       <img id="hangingDecorations" src="hangingDecorations.png"></img>
       <div id="main">
         <h1>Schema</h1>
-        <p> Mer information kommer snart!</p>
+        <p>18:00 - 02:00</p>
       </div>
       <Footer></Footer>
     </>
