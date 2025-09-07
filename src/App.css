@@ -47,6 +47,19 @@ p {
   text-align: justify;
 }
 
+.sponsorImg {
+  height: 100px;
+  margin: 10px;
+}
+
+#sponsorsDiv {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 @media (max-width: 900px) {
  #main {
   margin-left: 10px;
